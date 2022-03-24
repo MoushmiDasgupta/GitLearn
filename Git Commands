@@ -1,0 +1,29 @@
+Git Commands:
+
+1. git init - It initializes the git environment to start working (creates the .git folder)
+2. git config 
+git config --global user.name "Moushmi"
+git config --global user.email "moushmi@analyticsdomain.com"
+git config --global --edit
+
+3. git clone
+4. git add
+git add first.txt
+git add .
+
+5. git commit
+git commit -m "Saving first.txt"
+
+6. git status - Status of files which are being tracked by git at point in time. 
+
+7. git rm
+8. git branch
+9. git merge
+10. git push
+11. git pull
+12. git remote
+13. git ignore
+14. git log
+15. git show
+16. git --version
+17. clear
